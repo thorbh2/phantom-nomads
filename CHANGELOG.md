@@ -8,3 +8,4 @@
 - 2025-09-03: improve error handling in deploy script
 - 2025-09-03: reduce contract size
 - 2025-09-06: add initial project scaffold
+- 2025-09-06: bump dependency versions
